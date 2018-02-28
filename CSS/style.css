@@ -49,7 +49,7 @@ body {
 }
 .nav__item{
     list-style: none;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
     text-transform: uppercase;
     color: #070707;
@@ -69,13 +69,13 @@ body {
 
     }
     .nav__wrapper{
-        padding: 15px;
+        padding: 15px 0;
         margin: 0 auto;
         justify-content: space-between;
     }
     .nav{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         margin: 0 auto;
     }
 }
