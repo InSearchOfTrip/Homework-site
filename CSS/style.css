@@ -234,6 +234,7 @@ body {
 
         .slider-button_item:nth-of-type(2n) {
             display: inline-block;
+        }
     }
     .radio-slider-1:checked ~ .hidden .slider_wrapper{
         transform: translateX(0);
@@ -251,6 +252,7 @@ body {
         transform: translateX(-1040px);
     }
     .radio-slider-6:checked ~ .hidden .slider_wrapper{
-        transform: translateX(-1300px);
+         transform: translateX(-1300px);
     }
+
         /*end slider*/
